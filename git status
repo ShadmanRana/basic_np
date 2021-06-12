@@ -1,0 +1,65 @@
+[33mcommit a1735bb60f919af80dea0cbf87d7ff9f8455207e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 12:45:22 2021 +0600
+
+    Make a array with random array
+
+[33mcommit 0948ac6ce53429d1c6ce07a92075c97715ff3322[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 12:26:24 2021 +0600
+
+    Create a identity matrix
+
+[33mcommit 942f3e8ec90e9d271053056794c2a7e0aba91c6a[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 12:22:43 2021 +0600
+
+    Findout nonzeros element of an array
+
+[33mcommit fece6465a8f16a7d33fbd667fba85be36f3009ce[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 12:16:13 2021 +0600
+
+    Create a 3 by 3 matrik where value range is 0 to 8
+
+[33mcommit 8ad121a7bb543ec62272486d2f4c227fe9a1e239[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 12:07:36 2021 +0600
+
+    Reverse a array
+
+[33mcommit fb9c809ef39feb7818062ec78664d2a775de955b[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:58:00 2021 +0600
+
+    Arange number 10 from 49
+
+[33mcommit 5d453567f299b8d009dfa554104a473f3b2de78b[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:39:11 2021 +0600
+
+    Create a null vector with size 10 & the fifth value is 1
+
+[33mcommit 3b31f892209c76012dae7273b887390e8f662f9c[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:30:33 2021 +0600
+
+    Check the size of an array
+
+[33mcommit c2e1c96c65e663c8e6cbf132721d2013f08a5709[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:26:52 2021 +0600
+
+    Create a null vector with size of 10
+
+[33mcommit d151e6d9a58f4e2a42df831e4b629e1b31ee18c2[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:24:53 2021 +0600
+
+    Check numpy version and configuration
+
+[33mcommit fd0e3d7ae9051cfc267ebf82877e9665205eeaab[m
+Author: Shadman-Rana <rana.cse333@gmail.com>
+Date:   Sat Jun 12 11:17:26 2021 +0600
+
+    Import numpy library function called np
